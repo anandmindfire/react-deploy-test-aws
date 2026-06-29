@@ -3,7 +3,7 @@ import './App.css'
 
 const starterTodos = [
   { id: 1, text: 'Learn Vite + React', done: false },
-  { id: 2, text: 'Build a small todo app', done: true },
+  { id: 2, text: 'Build a small todo app using it', done: true },
 ]
 
 function App() {
