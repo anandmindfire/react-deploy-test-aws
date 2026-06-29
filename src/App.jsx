@@ -46,7 +46,7 @@ function App() {
       <section className="todo-card">
         <header className="todo-header">
           <div>
-            <p className="eyebrow">React + Vite</p>
+            <p className="eyebrow">Advanced</p>
             <h1>Todo list</h1>
           </div>
           <span className="badge">{remaining} remaining</span>
